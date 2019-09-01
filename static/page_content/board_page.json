@@ -1,0 +1,43 @@
+{
+  "description": "Члены редакционной коллегии",
+  "editor": {
+    "name": "Михаил Иванович Гладышев",
+    "academic_title": "Доцент",
+    "academic_degree": "Кандидат биологических наук",
+    "image": "/static/board/petrov.jpg",
+    "text": "",
+    "email": "glad@ibp.ru"
+  },
+  "members": [
+    {
+      "name": "Петров Василий Олегович",
+      "academic_title": "Доцент",
+      "academic_degree": "Кандидат биологических наук",
+      "image": "/static/board/petrov.jpg"
+    },
+    {
+      "name": "Петров Василий Олегович",
+      "academic_title": "Доцент",
+      "academic_degree": "Кандидат биологических наук",
+      "image": "/static/board/petrov.jpg"
+    },
+    {
+      "name": "Петров Василий Олегович",
+      "academic_title": "Доцент",
+      "academic_degree": "Кандидат биологических наук",
+      "image": "/static/board/petrov.jpg"
+    },
+    {
+      "name": "Петров Василий Олегович",
+      "academic_title": "Доцент",
+      "academic_degree": "Кандидат биологических наук",
+      "image": "/static/board/petrov.jpg"
+    },
+    {
+      "name": "Петров Василий Олегович",
+      "academic_title": "Доцент",
+      "academic_degree": "Кандидат биологических наук",
+      "image": "/static/board/petrov.jpg"
+    }
+  ]
+}

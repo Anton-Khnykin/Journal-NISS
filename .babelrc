@@ -1,0 +1,26 @@
+{
+  "presets": [
+    [
+      "next/babel",
+      {
+        "transform-runtime": {
+          "useESModules": false
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "components": "./components",
+          "middleware": "./middleware",
+          "utils": "./middleware/utils",
+          "higher-order": "./higher-order",
+          "static": "./static"
+        }
+      }
+    ]
+  ]
+}

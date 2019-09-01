@@ -1,0 +1,19 @@
+{
+  "journalName": {
+    "caption": "Наименование журнала",
+    "value": "СФУ.Биология"
+  },
+  "journalURL": {
+    "caption": "Адрес сайта журнала (используется, например, в почтовой рассылке)",
+    "value": "http://localhost:3000"
+  },
+  "ISSN": {
+    "caption": "ISSN",
+    "value": "1997-1389"
+  },
+  "publishingHouse": {
+    "caption": "Издательство",
+    "value": "Сибирский федеральный университет",
+    "link": "http://publishing.sfu-kras.ru"
+  }
+}

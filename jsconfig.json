@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "noImplicitAny": false,
+    "paths": {
+      "components/*": ["components/*"],
+      "middleware/*": ["middleware/*"],
+      "utils/*": ["middleware/utils/*"],
+      "higher-order/*": ["higher-order/*"],
+      "static/*": ["static/*"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    ".next",
+    ".git",
+    "static"
+  ]
+}
